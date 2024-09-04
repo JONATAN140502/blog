@@ -1,9 +1,16 @@
 <?php
 $conn = mysqli_connect(
   'localhost:3306',
-  'root',
-  '',
-  'blog'
+  'jonatanmayanga_blog',
+  'Thaison2020.',
+  'jonatanmayanga_blog'
 ) or die(mysqli_erro($mysqli));
+
+// $conn = mysqli_connect(
+//   'localhost:3306',
+//   'root',
+//   '',
+//   'blog'
+// ) or die(mysqli_erro($mysqli))
 
 ?>
