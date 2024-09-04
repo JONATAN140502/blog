@@ -1,0 +1,176 @@
+
+a {
+    color: #1aaa37;
+}
+a:hover {
+    color: #1aaa37;
+}
+.pagination .paginate_button.active a  {
+    background-color: #1aaa37;
+    color: #ffffff;
+}
+.title-main-page h4:before {
+    border-color: #1aaa37;
+}
+.title-main-page p:after {
+    border-bottom: 5px solid #1aaa37;
+}
+.sub-title h6:before {
+    background: #1aaa37;
+}
+.section-head h4:before {
+    background: #1aaa37;
+}
+#preloader-circle span {
+    border: 8px solid #1aaa37;
+}
+.site-title span {
+    color: #1aaa37;
+}
+.header-main-menu li a i {
+    background-color: #1aaa37;
+}
+.responsive-header  {  
+    color: #1aaa37;
+}
+.bout-list-summry li .icon-info{
+    background: #1aaa37;
+    border: 1px solid #1aaa37;
+}
+.special-block-bg::before {
+    border-color: #1aaa37 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #1aaa37;
+}
+.special-block-bg::after {
+    border-color: rgba(0, 0, 0, 0) #1aaa37 #1aaa37 rgba(0, 0, 0, 0);
+}
+.service-block:hover h4{
+    color: #1aaa37;
+}
+.overlay {
+    background: linear-gradient(-45deg,rgb(98, 170, 25) 0,#1aaa37 40%,rgb(23, 159, 70) 100%);
+}
+.pulse-icon a {
+    color: #1aaa37;
+}
+.counter-block::before {
+    border-color: #1aaa37 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #1aaa37;
+}
+.counter-block::after {
+    border-color: rgba(0, 0, 0, 0) #1aaa37 #1aaa37 rgba(0, 0, 0, 0);
+}
+.counter-block i {
+    color: #1aaa37;
+}
+.testimonial-review:before {
+    color: #1aaa37;
+}
+.owl-dot.active span{
+    background: #1aaa37;
+}
+.timeline.currecnt .timeline-icon:after, .main-timeline .timeline:hover  .timeline-icon:after{
+    background: #1aaa37;
+}
+.main-timeline .timeline:hover .title{color: #1aaa37; }
+.progress-bar {
+    background-color: #1aaa37;
+}
+.filter-tabs .active-filter, .filter-tabs .fil-cat:focus, .filter-tabs .fil-cat:hover {
+    color: #1aaa37;
+}
+.label-portfolio::before {
+    border-color: #1aaa37 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #1aaa37;
+}
+.label-portfolio > span {
+    color: #1aaa37;
+}
+.blog-grid-flex .blog-item:hover .blog-article > .article-link > a {
+    background-color: #1aaa37 !important;
+}
+.blog-grid-flex .blog-item-quote .article-img::after {
+    background-color: #1aaa37;
+}
+input:hover,
+textarea:hover,
+input:focus,
+textarea:focus{
+    border-bottom: 1px solid #1aaa37;
+}
+.bt-submit {
+    background: #1aaa37;
+}
+.contact-icon i {
+    background: #1aaa37;
+}
+.social-media-block::after {
+    border-color: rgba(0, 0, 0, 0) #1aaa37 #1aaa37 rgba(0, 0, 0, 0);
+}
+.social-media-block::before {
+    border-color: #1aaa37 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #1aaa37;
+}
+.social-media-block a{
+    color: #1aaa37;
+}
+.social-media-block a:hover{
+    background: #1aaa37;
+}
+.post-meta li:hover, .post-meta li a:hover{
+    color: #1aaa37;
+}
+#posts-nav li a:hover {
+    color: #1aaa37;
+}
+.comment-by a.reply:hover,
+.comment-by a.reply:hover i {
+    background-color: #1aaa37;
+}
+.search-blog-input input:hover,  .search-blog-input input:focus{
+    border: 1px solid #1aaa37;
+}
+.widget .search-blog-input .input button{
+    color: #1aaa37;
+}
+.widget-text h5 a:hover {
+    color: #1aaa37;
+}
+.tagcloud a:hover{
+    background-color: #1aaa37;
+    border: 1px solid #1aaa37;
+}
+.error-content .error-message h2 {
+    color: #1aaa37;
+}
+.error-content .error-message h2 {
+    color: #1aaa37;
+}
+.error-content .form-error-search .btn-search {
+    background-color: #1aaa37;
+}
+.error-content .description a {
+    color: #1aaa37
+}
+.profile-picture-block {
+    background-color: rgb(98, 170, 25);
+}
+.my-photo {
+    background-color: rgb(23, 159, 70);
+}
+.header-main-menu li a:hover, .header-main-menu li a.active {
+    background-color: rgba(32, 201, 151, 0.18);
+}
+.portfolio-grid .portfolio-item:hover .portfolio-data {
+    background-color: rgba(32, 201, 151, 0.65);
+}
+.portfolio-head-content {
+    background-color: rgba(32, 201, 151, 0.65);
+}
+.blog-grid-flex .blog-article .comment-like {
+    background-color: rgba(32, 201, 151, 0.6);
+}
+body::-webkit-scrollbar-thumb,
+.sub-page::-webkit-scrollbar-thumb,
+.header::-webkit-scrollbar-thumb{
+    background-color: rgba(32, 201, 151, 0.30);
+}
+img.responsive-logo {
+    border: 3px solid rgba(32, 201, 151, 0.30);
+}
